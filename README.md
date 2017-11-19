@@ -1,2 +1,5 @@
 # hello-world
-Trying out the GitHub tutorial.
+
+This is a project for the tutorial on how to use GitHub.
+
+Thanks.
